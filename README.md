@@ -1,2 +1,2 @@
 # mailGest
-Easily send html email in php
+Easily send html email in PHP
